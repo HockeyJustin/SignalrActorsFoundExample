@@ -1,0 +1,14 @@
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\bin\Release\netcoreapp2.1\ChatSample.deps.json
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\bin\Release\netcoreapp2.1\ChatSample.runtimeconfig.json
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\bin\Release\netcoreapp2.1\ChatSample.runtimeconfig.dev.json
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\bin\Release\netcoreapp2.1\ChatSample.dll
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\bin\Release\netcoreapp2.1\ChatSample.pdb
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.csprojAssemblyReference.cache
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.csproj.CoreCompileInputs.cache
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.RazorAssemblyInfo.cache
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.RazorAssemblyInfo.cs
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.AssemblyInfoInputs.cache
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.AssemblyInfo.cs
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.RazorTargetAssemblyInfo.cache
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.dll
+C:\Users\wench\source\repos\ServiceFabric\ChatSample\obj\Release\netcoreapp2.1\ChatSample.pdb
